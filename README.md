@@ -8,8 +8,7 @@
 |               |          | column extracted (find in below image) ?      |
 |         0     |          | if in the question is asked Sort the matrix,  |
 |               |          | Get the column or row initially you need      |
-|               |          | to define the matrix and extract.             |  
-|        1      |    / 10  |                                               |
+|--------------------------------------------------------------------------|
 |        2      |    / 10  |                                               |
 |        3      |    / 10  |                                               |
 
