@@ -2,7 +2,8 @@
 
 | Lab No. | Marks     | Remarks |
 |----------|-----------|---------|
-| 0        | 7.5 / 10  | In Q3 and Q4, the input matrix is not clearly shown. Please specify which row or column is extracted (as shown in the reference image). If the question asks to sort the matrix, first extract the required row or column and then perform the sorting. | 1        |  / 10     |         |
+| 0        | 7.5 / 10  | In Q3 and Q4, the input matrix is not clearly shown. Please specify which row or column is extracted (as shown in the reference image). If the question asks to sort the matrix, first extract the required row or column and then perform the sorting. 
+| 1        |  / 10     |         |
 | 2        |  / 10     |         |
 | 3        |  / 10     |         |
 
